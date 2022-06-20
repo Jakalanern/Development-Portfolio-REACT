@@ -21,7 +21,7 @@ const data = [
     id: 0,
     type: 'Portfolio',
     demo: '',
-    code: 'https://github.com/jakalanern',
+    code: 'https://github.com/Jakalanern/Development-Portfolio-REACT',
   },
   {
     title: 'My Art Portfolio',
