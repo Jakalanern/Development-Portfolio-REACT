@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f776efa7.css",
+    "main.js": "/static/js/main.71a2a91a.js",
+    "static/js/787.bd1346e7.chunk.js": "/static/js/787.bd1346e7.chunk.js",
+    "static/media/artfolio.png": "/static/media/artfolio.05266c180a6fe5f4310c.png",
+    "static/media/dev-portfolio.png": "/static/media/dev-portfolio.9cd89cbeb7a9190e64a1.png",
+    "static/media/weather.png": "/static/media/weather.8292c5314545fae1b1b3.png",
+    "static/media/react-todo-2.png": "/static/media/react-todo-2.ea3e6bb8169eac0a060e.png",
+    "static/media/tic-tac-toe.png": "/static/media/tic-tac-toe.3162864785e808c57d1d.png",
+    "static/media/notes.png": "/static/media/notes.6b906b6d9fcf05eeb018.png",
+    "static/media/budget.png": "/static/media/budget.4a28abbb1bedeb94a132.png",
+    "static/media/github.png": "/static/media/github.6efe470b37c0d9b096bc.png",
+    "static/media/play.png": "/static/media/play.d2ccec590d2dc68e58dd.png",
+    "static/media/tip-calculator.png": "/static/media/tip-calculator.fd17679ad8e8cbb69fdb.png",
+    "static/media/calculator.png": "/static/media/calculator.1254c2acf1f7cff51d3c.png",
+    "static/media/bmr.png": "/static/media/bmr.b3219d24c920ddadf7a1.png",
+    "static/media/grocery.png": "/static/media/grocery.1332d06cd523f359c2a0.png",
+    "static/media/flash-cards.png": "/static/media/flash-cards.bb93d812d7943ac9c0bc.png",
+    "static/media/linkedin.png": "/static/media/linkedin.b0689ffa0f1dc0a8e105.png",
+    "static/media/brick-breaker.png": "/static/media/brick-breaker.732d7c9b6f3cae96b063.png",
+    "static/media/hangman.png": "/static/media/hangman.d0daae8b4fd1998fd3b0.png",
+    "index.html": "/index.html",
+    "main.f776efa7.css.map": "/static/css/main.f776efa7.css.map",
+    "main.71a2a91a.js.map": "/static/js/main.71a2a91a.js.map",
+    "787.bd1346e7.chunk.js.map": "/static/js/787.bd1346e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f776efa7.css",
+    "static/js/main.71a2a91a.js"
+  ]
+}
